@@ -19,10 +19,6 @@ Una aplicación de línea de comandos (CLI) en Node.js para gestionar tareas pen
 
 1. Clona el repositorio:
 
-   ```bash
-   git clone https://github.com/tu-usuario/gestor-tareas.git
-   cd gestor-tareas
-
    Uso
 Ejecuta la aplicación:
 
